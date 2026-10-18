@@ -11,7 +11,7 @@
 | Open browser developer tools and inspect Console and Network while switching tabs. | No application script errors or missing CSS/JS files. |
 | Open the public GitHub Pages URL, refresh it, and repeat M01/M02/M04. | HTML, CSS, and JavaScript load under the repository subdirectory and navigation works on the deployed page. |
 
-- [ ] Manual tests completed.
-- [ ] Five automated tests pass on the submitted revision.
-- [ ] Main-branch GitHub Actions test and deployment jobs succeed.
-- [ ] Repository is public, PRs are merged, relevant issues are closed, and future milestones remain open.
+- [x] Manual tests completed.
+- [x] Five automated tests pass on the submitted revision.
+- [x] Main-branch GitHub Actions test and deployment jobs succeed.
+- [x] Repository is public, PRs are merged, relevant issues are closed, and future milestones remain open.
